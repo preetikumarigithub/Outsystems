@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="leaflet-tilelayer-cordova" version="1.2.3" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>L.TileLayer.Cordova</name>
+    <description>Leaflet TileLayer subclass which caches to local filesystem, for Cordova/Phonegap</description>
+    <license>MIT</license>
+    <keywords>cordova,leaflet,tilelayer,map tiles,cache</keywords>
+    <author>https://github.com/gregallensworth</author>
+
+    <js-module name="leaflet-tilelayer-cordova" src="src/leaflet-tilelayer-cordova.js">
+    </js-module>
+</plugin>
